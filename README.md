@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ryan Huynh, also known as @R41Ryan
-- 👀 I’m interested in web development of all kinds!
-- 🌱 I’m currently learning full-stack development, including React.js and Express.js
+- 👀 I’m interested in software development of all kinda, but with a particular interest in game development.
+- 🌱 I’m currently learning game design, game programming, and the Godot Engine.
 - 📫 How to reach me - email: ryanhuynh64@gmail.com
 
 <!---
